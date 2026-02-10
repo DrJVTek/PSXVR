@@ -1,0 +1,29 @@
+# UE5 generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+
+# Build artifacts
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+
+# Logs (keep structure, ignore content)
+logs/*.log
+logs/*.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+*.code-workspace
